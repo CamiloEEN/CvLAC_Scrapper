@@ -19,11 +19,11 @@ En la instalación asegúrese de añadir python a la variable PATH.
 
 <h2>Uso</h2>
 
-Cada programa CvLACpyExtract<b color="Blue">item</b> funciona como se muestra en la imagen:
+Cada programa CvLACpyExtract<b color="blue">item</b> funciona como se muestra en la imagen:
 
 <img width="581" alt="Funcionamiento_de_los_programas_de_scrappear_CvLACS" src="https://github.com/CamiloEEN/CvLAC_Scrapper/assets/88359710/40ac5cc7-e39a-49bc-b236-12bc066ac041">
 
-Al ejecutarse toma por defecto un archivo llamado consulta.xlsx con la lista de investigadores y los correspondientes links a los CvLACs en la carpeta input y devuelve un archivo .csv en la carpeta output con la lista de <b color="Blue">items</b> obtenidos directamente de los CvLACs.
+Al ejecutarse toma por defecto un archivo llamado consulta.xlsx con la lista de investigadores y los correspondientes links a los CvLACs en la carpeta input y devuelve un archivo .csv en la carpeta output con la lista de <b color="blue">items</b> obtenidos directamente de los CvLACs.
 
 Para ejecutar cada programa basta con correr el archivo main.py en la respectiva carpeta que contiene el programa. Para más detalles consulte el manual de instrucciones contenido en el repositorio.
 
