@@ -5,6 +5,7 @@ Conjunto de programas hechos en python que scrappean las páginas públicas de C
 Estos programas fueron desarrollados inicialmente para facilitar la recopilación de información y posterior analisis de los productos resultados de investigación del grupos NATURATU de la Universidad de Ibagué. Dado que su uso fue requerido en otras áreas de la universidad y la utilidad que se le puede dar a otras instituciones, se hace público su acceso por este medio. 
 
 <b>Nota 1: La información extraida proviene directamente de las páginas públicas del CvLAC por lo tanto la información extraida es de caracter público</b>
+
 <b>Nota 2: Se pone a disposición todos los programas de forma pública bajo la licencia: MIT License el día 8 de junio de 2023.</b>
 
 <h1>Instalación</h1>
