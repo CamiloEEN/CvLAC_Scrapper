@@ -1,7 +1,4 @@
-# El programa CvLACpyExtractArticulos fue creado por Carlos Antonio Jacanamejoy Jamioy y
-# sus modificaciones y derivados CvLACpyExtract(tipo de producto) fueron creados por
-# Camilo Eduardo Echeverry Naranjo con fines de Acreditación y para uso exclusivo de la
-# Universidad de Ibagué. Reservados todos los derechos por la Universidad de Ibagué.
+
 
 import os
 import subprocess
